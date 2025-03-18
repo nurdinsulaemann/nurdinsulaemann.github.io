@@ -3,26 +3,44 @@
 ## Visualizing Chili Price Trends
 ### Eksplorasi Harga Cabai DKI Jakarta (2022-2025)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/chili_price_DKI/blob/main/Trend%20Harga%20Cabai.ipynb))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/chili_price_DKI/blob/main/Trend%20Harga%20Cabai.ipynb)
 
-Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai pada periode ramadan 2025 benar-benar lebih mahal dibanding tahun-tahun sebelumnya?
+<div style="text-align: justify">Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai pada periode ramadan 2025 benar-benar lebih mahal dibanding tahun-tahun sebelumnya?</div>
 <br><br>
 Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun, serta penyajian insight berbasis data agar lebih mudah dipahami.
 <br><br>
-### - Skills: Data Transformation, Visualization
-### - Tools: Python, Tableau
-### - Dataset: PIHPS (Pusat Informasi Harga Pasar Strategis)
+- **Skills** : Data Transformation, Visualization
+- **Tools** : Python, Tableau
+- **Dataset** : PIHPS (Pusat Informasi Harga Pasar Strategis)
 
 <center><img src="images/trend_cabai_dki.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Bandung House Price Analysis
+### An Analysis of Bandung's Housing Prices and Market Trends
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/project_bdg_house_price/blob/main/EDA%20notebook/Bandung%20House%20Price%20Analysis.ipynb)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">Dalam project ini, saya melakukan analisis terhadap harga rumah di Bandung menggunakan data hasil web scraping dari platform properti online. Tujuan utama dari proyek ini adalah untuk memahami pola harga rumah, faktor-faktor yang memengaruhi harga rumah, serta distribusi harga di berbagai wilayah di Kota Bandung.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+## **Langkah-langkah yang Dilakukan**  
+- **Pengumpulan Data**  
+  - Scraping 4.185 listing rumah, difilter menjadi 2.302 listing di Kota Bandung.  
+- **Data Cleaning & Feature Engineering**  
+  - Standarisasi harga, luas tanah, luas bangunan, serta ekstraksi kecamatan.  
+- **Analisis Statistik & Visualisasi**  
+  - Distribusi harga dan segmentasi properti.  
+  - Korelasi harga dengan luas tanah dan bangunan.  
+  - Perbandingan harga antar kecamatan, dengan North Bandung sebagai area termahal.  
+- **Model Prediksi Sederhana**  
+  - Regresi menunjukkan harga rumah dipengaruhi signifikan oleh luas tanah.  
+
+## **Tech Stack**  
+- **Skill** : Data Cleaning, EDA, Visualization, Regression Analysis  
+- **Tools** : Python (Pandas, Seaborn), Tableau  
+- **Dataset** : Data hasil *web scraping* 
+
+<center><img src="images/bdg house price.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
