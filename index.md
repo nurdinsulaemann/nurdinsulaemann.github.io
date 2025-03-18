@@ -16,7 +16,7 @@ Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun,
 
 
 ---
-### Bandung House Price Analysis
+## Bandung House Price Analysis
 ### An Analysis of Bandung's Housing Prices and Market Trends
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/project_bdg_house_price/blob/main/EDA%20notebook/Bandung%20House%20Price%20Analysis.ipynb)
