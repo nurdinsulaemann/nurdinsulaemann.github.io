@@ -1,18 +1,15 @@
 # Portfolio
 ---
-## Natural Language Processing
-
-### CS224n: Natural Language Processing with Deep Learning
-
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+## Visualizing Chili Price Trends
+### Eksplorasi Harga Cabai DKI Jakarta (2022-2025)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai saat ini benar-benar lebih mahal dibanding tahun-tahun sebelumnya?
+<br>
+Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun, serta penyajian insight berbasis data agar lebih mudah dipahami. Semua proses, mulai dari data wrangling hingga visualisasi, dilakukan menggunakan Python dengan library seperti Pandas, Matplotlib, dan Seaborn.
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/tren harga cabai.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
