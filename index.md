@@ -3,13 +3,17 @@
 ## Visualizing Chili Price Trends
 ### Eksplorasi Harga Cabai DKI Jakarta (2022-2025)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/chili_price_DKI/blob/main/Trend%20Harga%20Cabai.ipynb))
 
-Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai saat ini benar-benar lebih mahal dibanding tahun-tahun sebelumnya?
-<br>
-Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun, serta penyajian insight berbasis data agar lebih mudah dipahami. Semua proses, mulai dari data wrangling hingga visualisasi, dilakukan menggunakan Python dengan library seperti Pandas, Matplotlib, dan Seaborn.
+Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai pada periode ramadan 2025 benar-benar lebih mahal dibanding tahun-tahun sebelumnya?
+<br><br>
+Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun, serta penyajian insight berbasis data agar lebih mudah dipahami.
+<br><br>
+### - Skills: Data Transformation, Visualization
+### - Tools: Python, Tableau
+### - Dataset: PIHPS (Pusat Informasi Harga Pasar Strategis)
 
-<center><img src="images/tren harga cabai.png"/></center>
+<center><img src="images/trend_cabai_dki.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
