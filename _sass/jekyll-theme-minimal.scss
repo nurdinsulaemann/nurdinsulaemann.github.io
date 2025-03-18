@@ -101,20 +101,8 @@ th {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto; /* Agar gambar tetap di tengah */
+  max-width:100%;
 }
-
-.profile-image {
-  max-height: 400px; /* Sesuaikan dengan ukuran yang diinginkan */
-  width: auto;
-  display: block;
-  margin: 0 auto;
-  // border-radius: 10px; /* Opsional, jika ingin gambar lebih estetis */
-}
-
 
 header {
   width:270px;
