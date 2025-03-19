@@ -4,6 +4,7 @@
 ### Eksplorasi Harga Cabai DKI Jakarta (2022-2025)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/chili_price_DKI/blob/main/Trend%20Harga%20Cabai.ipynb)
+[![View Slide Report](https://img.shields.io/badge/Slides-View%20Slide%20Report-green?logo=google-drive)](https://www.canva.com/design/DAGh0giCxCk/kN_U_ubcHptTb1DY5EzFGA/view?utm_content=DAGh0giCxCk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he34cd086ae)
 
 <div style="text-align: justify">Dalam project ini, saya menganalisis data harga cabai dari Pusat Informasi Harga Pangan Strategis (PIHPS) untuk memahami tren pergerakannya dalam beberapa tahun terakhir. Saya mengumpulkan, membersihkan, dan memvisualisasikan data untuk menjawab pertanyaan utama: Apakah harga cabai pada periode ramadan 2025 benar-benar lebih mahal dibanding tahun-tahun sebelumnya?
 <br>
