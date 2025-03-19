@@ -21,6 +21,8 @@ Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun,
 ## Bandung House Price Analysis
 ### An Analysis of Bandung's Housing Prices and Market Trends
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/project_bdg_house_price/blob/main/EDA%20notebook/Bandung%20House%20Price%20Analysis.ipynb)
+[![View Slide Report](https://img.shields.io/badge/Slides-View%20Slide%20Report-green?logo=google-drive)](https://www.canva.com/design/DAGgaMqD5Lw/fxkDMC60Kf82iMkpe2jIdA/view?utm_content=DAGgaMqD5Lw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61cb47c16e)
 
 
 <div style="text-align: justify">Dalam project ini, saya melakukan analisis terhadap harga rumah di Bandung menggunakan data hasil web scraping dari platform properti online. Tujuan utama dari proyek ini adalah untuk memahami pola harga rumah, faktor-faktor yang memengaruhi harga rumah, serta distribusi harga di berbagai wilayah di Kota Bandung.</div>
@@ -31,8 +33,6 @@ Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun,
 
 <center><img src="images/bdg_house_price_analysis.png"/></center>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/project_bdg_house_price/blob/main/EDA%20notebook/Bandung%20House%20Price%20Analysis.ipynb)
-[![View Slide Report](https://img.shields.io/badge/Slides-View%20Slide%20Report-green?logo=google-drive)](https://www.canva.com/design/DAGgaMqD5Lw/fxkDMC60Kf82iMkpe2jIdA/view?utm_content=DAGgaMqD5Lw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61cb47c16e)
 
 
 ---
