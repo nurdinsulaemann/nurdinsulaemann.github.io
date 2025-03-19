@@ -106,9 +106,16 @@ img {
 
 header {
   width:270px;
-  float:center;
+  float:left;
   position:fixed;
+  text-align: center;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+header img {
+  display: block;
+  margin: 0 auto; /* Memastikan gambar berada di tengah */
+  border-radius: 50%; /* Opsional: Membuat gambar bulat */
 }
 
 ul.downloads {
