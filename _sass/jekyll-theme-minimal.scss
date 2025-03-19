@@ -105,10 +105,18 @@ img {
 }
 
 header {
-  width:270px;
-  float:center;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 100%; /* Agar header mengambil seluruh lebar layar */
+  text-align: center; /* Memusatkan isi header */
+  position: relative; /* Tidak fixed agar fleksibel */
+}
+
+header img {
+  display: block;
+  margin: 0 auto; /* Memastikan gambar berada di tengah */
+  border-radius: 50%; /* Jika ingin berbentuk lingkaran */
+  width: 200px; /* Sesuaikan ukuran gambar */
+  height: 200px; /* Sesuaikan ukuran gambar */
+  object-fit: cover; /* Agar proporsi tetap bagus */
 }
 
 ul.downloads {
