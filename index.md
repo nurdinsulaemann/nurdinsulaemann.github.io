@@ -30,6 +30,21 @@ Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun,
 
 <center><img src="images/bdg_house_price_analysis.png"/></center>
 
+---
+## Predicting AirBnB Price (Singapore)
+### How we can determine the optimal price?
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/AirBnB-Project/blob/main/AirBnb_Analyze%20%26%20Modeling.ipynb)
+
+<div style="text-align: justify">Pada project ini, saya membangun model machine learning untuk memprediksi harga sewa properti di Airbnb Singapore. Dengan menganalisis faktor lokasi, tipe properti, dan fasilitas, saya coba eskplor pola harga, membersihkan data, dan membangun model prediktif untuk melihat faktor utama yang mempengaruhi harga sewa. Hasil dari model ini digunakan untuk menentukan harga sewa yang optimal untuk meningkatkan potensial income </div>
+<br><br>
+Mayoritas listing Airbnb di Singapura terkonsentrasi di Central Region, dengan harga bervariasi berdasarkan lokasi dan ketersediaan. Model XGBoost terbukti paling akurat (R² = 75,4%) dalam memprediksi harga sewa. Analisis ini menunjukkan bahwa optimasi harga dapat meningkatkan potensi pendapatan dari SG$ 6,9 juta menjadi SG$ 11,5 juta, membuka peluang lebih besar bagi pemilik properti.
+<br>
+- **Skill** : Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning
+- **Tools** : Python, Pandas, Scikit-learn  
+- **Dataset** : Inside Airbnb (Singapore)
+
+<center><img src="images/Airbnb.png"/></center>
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
