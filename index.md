@@ -31,7 +31,7 @@ Analisis ini mencakup identifikasi pola musiman, perbandingan harga antar tahun,
 <center><img src="images/bdg_house_price_analysis.png"/></center>
 
 ---
-## Predicting AirBnB Price (Singapore)
+## Predicting Airbnb Price (Singapore)
 ### How we can determine the optimal price?
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nurdinsulaemann/AirBnB-Project/blob/main/AirBnb_Analyze%20%26%20Modeling.ipynb)
